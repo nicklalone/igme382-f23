@@ -16,19 +16,41 @@
 
 ---------------- Table of Contents ---------------- 
 # <a id="midterm"></a>Concepts to Date
-* Raster
-* Vector
+* **Raster** - https://www.caliper.com/glossary/what-is-raster-data.htm
+* **Vector** - https://www.caliper.com/glossary/what-is-vector-data.htm
+	* **Discussion of Both**: 
+		* https://www.gislounge.com/geodatabases-explored-vector-and-raster-data/
+		* https://gisgeography.com/spatial-data-types-vector-raster/
+		* https://www.esri.com/content/dam/esrisites/en-us/media/pdf/teach-with-gis/raster-faster.pdf
+		* https://gis.stackexchange.com/questions/57142/what-is-the-difference-between-vector-and-raster-data-models
+		* https://id.land/blog/raster-vs-vector-data-the-ultimate-guide
+		* https://spatialvision.com.au/blog-raster-and-vector-data-in-gis/
+* **Scale** - https://www.caliper.com/glossary/what-is-a-map-scale.htm
+* Data Model - https://spatialvision.com.au/blog-raster-and-vector-data-in-gis/
+* Data Structure - https://support.esri.com/en-us/gis-dictionary/data-structure
+* Cartesian Coordinate Systems - 
+	* https://www.andrews.edu/~rwright/Precalculus-RLW/Text/01-01.html#:~:text=The%20Cartesian%20%2C%20or%20rectangular%20%2C%20coordinate,as%20(x%2C%20y)
+	* https://support.esri.com/en-us/gis-dictionary/cartesian-coordinate-system#:~:text=%5Bcoordinate%20systems%5D%20A%20two%2D,by%20an%20x%2Cy%20coordinate
+* Types of Layers
+	* Thematic Layer - https://en.mimi.hu/gis/thematic_layer.html
+		* Wikipedia has an excellent list of thematic layers: https://en.wikipedia.org/wiki/Thematic_map#:~:text=Isarithmic%20maps%2C%20also%20known%20as,of%20values%20of%20the%20field.
+	* Coropelth - https://doc.arcgis.com/en/insights/latest/create/choropleth-maps.htm
+	* Proportional Symbol - https://wiki.gis.com/wiki/index.php/Proportional_symbol_map#:~:text=A%20Proportional%20symbol%20map%20is,to%20represent%20a%20quantitative%20variable.
+	* Dot Density - https://www.axismaps.com/guide/dot-density
+	* Isarithmic (heat) - http://wiki.gis.com/wiki/index.php/Isarithmic_map
 # <a id = "today"></a>Concepts for This Week 
-* Types of Maps
-	* Thematic
-	* Coropelth
-	* Proportional Symbol Map
-	* Dot Density Map
-	* Isarithmic Map
-* Map Scale
-* Map Projections
+* Types of Layers
+	* **Thematic** - https://en.mimi.hu/gis/thematic_layer.html
+		* Wikipedia has an excellent list of thematic layers: https://en.wikipedia.org/wiki/Thematic_map
+	* **Coropelth** - https://doc.arcgis.com/en/insights/latest/create/choropleth-maps.htm
+	* **Proportional Symbol** - https://wiki.gis.com/wiki/index.php/Proportional_symbol_map#:~:text=A%20Proportional%20symbol%20map%20is,to%20represent%20a%20quantitative%20variable
+	* **Dot Density** - https://www.axismaps.com/guide/dot-density
+	* **Isarithmic (heat)** - http://wiki.gis.com/wiki/index.php/Isarithmic_map
+* **Map Scale** - https://education.nationalgeographic.org/resource/map-scale/
+* **Map Projections** - https://www.gislounge.com/map-projection/
 # <a id="day1"></a>Tuesday 
 ##  <a id ="getstart"></a> We Finally Get Started
+
 ### <a id ="intro"></a> Introducing ArcGIS Pro
 ### <a id ="uitut"></a> UI Tutorial
 ### <a id ="welling"></a>Let's Explore Wellington
