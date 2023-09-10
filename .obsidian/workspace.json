@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b24115d5184a0f3",
+        "id": "5c6c776ce2921095",
         "type": "tabs",
         "children": [
           {
-            "id": "8e9c3ca24474300c",
+            "id": "b3d2be52ed295eeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,9 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e9c3ca24474300c",
+  "active": "b3d2be52ed295eeb",
   "lastOpenFiles": [
     "02 - Installing GIS.md",
-    "01 - Intro and Getting Started.md"
+    "PPTs/03 - Past Classes/2020/06 - IGME 382 2020 Week 6 Storymaps.pdf",
+    "PPTs/03 - Past Classes/2020/01 - IGME 382 Fall 2020 Week 1.pdf",
+    "01 - Intro and Getting Started.md",
+    "03 - Using GIS.md"
   ]
 }
