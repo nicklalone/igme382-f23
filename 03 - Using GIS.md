@@ -49,16 +49,63 @@
 * **Map Scale** - https://education.nationalgeographic.org/resource/map-scale/
 * **Map Projections** - https://www.gislounge.com/map-projection/
 # <a id="day1"></a>Tuesday 
-##  <a id ="getstart"></a> We Finally Get Started
+## <a id ="getstart"></a>We Finally Get Started
+So for the past couple of weeks, we've been stuck in a bit of a torpor. I didn't have permissions to show GIS in class unless I brought a windows machine to class. This led to a week of delaying new instruction. Now, I have the permissions for us to really begin running. 
 
-### <a id ="intro"></a> Introducing ArcGIS Pro
-### <a id ="uitut"></a> UI Tutorial
+What I thought i'd do this week is relatively simple: 
+
+1. Introduce Map Concepts
+2. Introduce the ArcGIS UI
+3. Prompt everyone to explore with an assignment. 
+
+So on Tuesday, we will explore GIS, on Thursday, we'll get ready for an assignment. 
+
+### New Concepts
+
+**Data**
+* **Data Model** - https://spatialvision.com.au/blog-raster-and-vector-data-in-gis/
+* **Data Structure** - https://support.esri.com/en-us/gis-dictionary/data-structure
+
+**Types of Data**
+* **Raster** - https://www.caliper.com/glossary/what-is-raster-data.htm
+* **Vector** - https://www.caliper.com/glossary/what-is-vector-data.ht
+
+Types of Maps:
+* **Map Scale** - https://education.nationalgeographic.org/resource/map-scale/
+* **Map Projections** - https://www.gislounge.com/map-projection/
+
+**Layers**: 
+* **Types of Layers**
+	* **Thematic** - https://en.mimi.hu/gis/thematic_layer.html
+		* Wikipedia has an excellent list of thematic layers: https://en.wikipedia.org/wiki/Thematic_map
+	* **Coropelth** - https://doc.arcgis.com/en/insights/latest/create/choropleth-maps.htm
+	* **Proportional Symbol** - https://wiki.gis.com/wiki/index.php/Proportional_symbol_map#:~:text=A%20Proportional%20symbol%20map%20is,to%20represent%20a%20quantitative%20variable
+	* **Dot Density** - https://www.axismaps.com/guide/dot-density
+	* **Isarithmic (heat)** - http://wiki.gis.com/wiki/index.php/Isarithmic_map
+
+### <a id ="intro"></a>Introducing ArcGIS Pro
+
+
+### <a id ="uitut"></a>UI Tutorial
+
 ### <a id ="welling"></a>Let's Explore Wellington
+
 ### <a id ="howwork"></a>How does it all work?
 
+
 # <a id="day2"></a>Thursday 
+
 ## We Apply What We Got Started
+
+
 ### <a id ="rochome"></a>Let's Think About Rochester (or your hometown)
+
+
 ### <a id ="getstart"></a>Getting Started
-### <a id ="highlight"></a> What features do we want to highlight?
-### <a id ="doing"></a> Doing it
+
+
+### <a id ="highlight"></a>What features do we want to highlight?
+
+
+### <a id ="doing"></a>Doing it
+
