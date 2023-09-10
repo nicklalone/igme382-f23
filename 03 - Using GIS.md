@@ -84,11 +84,18 @@ Types of Maps:
 	* **Isarithmic (heat)** - http://wiki.gis.com/wiki/index.php/Isarithmic_map
 
 ### <a id ="intro"></a>Introducing ArcGIS Pro
+If the stuff we talk about in class doesn't work for you, give this tutorial a shot: 
+* Part 1: https://www.youtube.com/watch?v=BbUctneHfKc&t=1558s&ab_channel=GeoDeltaLabs
+* Part 2: https://www.youtube.com/watch?v=t7ZnT5NgqlM&ab_channel=GeoDeltaLabs
 
+I also like this collection from RIT's own Brian Tomaszewski: 
+* https://www.youtube.com/watch?v=zrFm5HzwPNw&list=PLtrmEEvdGsNqsQ5ZpOapSmVQklIG9Bu5W&ab_channel=GIScience
 
 ### <a id ="uitut"></a>UI Tutorial
 
+
 ### <a id ="welling"></a>Let's Explore Wellington
+
 
 ### <a id ="howwork"></a>How does it all work?
 
