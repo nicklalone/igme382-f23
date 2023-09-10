@@ -48,6 +48,7 @@
 	* **Isarithmic (heat)** - http://wiki.gis.com/wiki/index.php/Isarithmic_map
 * **Map Scale** - https://education.nationalgeographic.org/resource/map-scale/
 * **Map Projections** - https://www.gislounge.com/map-projection/
+* **Generalization** - https://support.esri.com/en-us/gis-dictionary/generalization
 # <a id="day1"></a>Tuesday 
 ## <a id ="getstart"></a>We Finally Get Started
 So for the past couple of weeks, we've been stuck in a bit of a torpor. I didn't have permissions to show GIS in class unless I brought a windows machine to class. This led to a week of delaying new instruction. Now, I have the permissions for us to really begin running. 
@@ -70,9 +71,10 @@ So on Tuesday, we will explore GIS, on Thursday, we'll get ready for an assignme
 * **Raster** - https://www.caliper.com/glossary/what-is-raster-data.htm
 * **Vector** - https://www.caliper.com/glossary/what-is-vector-data.ht
 
-Types of Maps:
+Concepts About the Makeup of Maps:
 * **Map Scale** - https://education.nationalgeographic.org/resource/map-scale/
 * **Map Projections** - https://www.gislounge.com/map-projection/
+* **Generalization** - https://support.esri.com/en-us/gis-dictionary/generalization
 
 **Layers**: 
 * **Types of Layers**
