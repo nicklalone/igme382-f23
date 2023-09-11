@@ -58,9 +58,9 @@ What I thought i'd do this week is relatively simple:
 
 1. Introduce Map Concepts
 2. Introduce the ArcGIS UI
-3. Prompt everyone to explore with an assignment. 
+3. Prompt everyone to explore with an assignment in class. 
 
-So on Tuesday, we will explore GIS, on Thursday, we'll get ready for an assignment. 
+So on Tuesday, we will explore GIS, on Thursday, we'll do an assignment. 
 
 ### New Concepts
 
@@ -72,12 +72,12 @@ So on Tuesday, we will explore GIS, on Thursday, we'll get ready for an assignme
 * **Raster** - https://www.caliper.com/glossary/what-is-raster-data.htm
 * **Vector** - https://www.caliper.com/glossary/what-is-vector-data.ht
 
-Concepts About the Makeup of Maps:
+**Concepts About the Makeup of Maps**
 * **Map Scale** - https://education.nationalgeographic.org/resource/map-scale/
 * **Map Projections** - https://www.gislounge.com/map-projection/
 * **Generalization** - https://support.esri.com/en-us/gis-dictionary/generalization
 
-**Layers**: 
+**Layers** 
 * **Types of Layers**
 	* **Thematic** - https://en.mimi.hu/gis/thematic_layer.html
 		* Wikipedia has an excellent list of thematic layers: https://en.wikipedia.org/wiki/Thematic_map
@@ -86,7 +86,7 @@ Concepts About the Makeup of Maps:
 	* **Dot Density** - https://www.axismaps.com/guide/dot-density
 	* **Isarithmic (heat)** - http://wiki.gis.com/wiki/index.php/Isarithmic_map
 
-### <a id ="intro"></a>Introducing ArcGIS Pro
+### <a id ="intro"></a>Introducing ArcGIS Pro (alternate things)
 If the stuff we talk about in class doesn't work for you, give this tutorial a shot: 
 * Part 1: https://www.youtube.com/watch?v=BbUctneHfKc&t=1558s&ab_channel=GeoDeltaLabs
 * Part 2: https://www.youtube.com/watch?v=t7ZnT5NgqlM&ab_channel=GeoDeltaLabs
@@ -94,83 +94,93 @@ If the stuff we talk about in class doesn't work for you, give this tutorial a s
 I also like this collection from RIT's own Brian Tomaszewski: 
 * https://www.youtube.com/watch?v=zrFm5HzwPNw&list=PLtrmEEvdGsNqsQ5ZpOapSmVQklIG9Bu5W&ab_channel=GIScience
 
+This is also a great starting tutorial:
+* https://www.youtube.com/playlist?list=PLRrQArPWjCiXlwfR9wN2XAphIbj56GNCi 
+
 ### <a id ="uitut"></a>UI Tutorial
-Ribbons
+
+Here is a general appearance of the mapping windows.
 ![[/images/whole.png]]
-Ribbons
-Map Explorer
-Database Editor
-Python Editor / Jupyter Notebook
-Table of Contents
+**Ribbons** - this is the current way that ESRI has decided to collect and organize their commands and structure. At times, depending on the information in the window, you'll see different ribbons show up. 
+
+**Map Explorer** - is the gist of GIS, where the map goes.
+
+**Database Editor** - all data on the map, especially entities and vector data, come out of a csv file like R or SPSS or some stats package. You can add fields here, adjust entries, etc. 
+
+**Python Editor / Jupyter Notebook** - This is ESRI's language of choice. Here, you can do all matter of visualization, machine learning, AI, or just geospatial analysis. For examples of python and GIS, see: https://automating-gis-processes.github.io/2016/Lesson1-Intro-Python-GIS.html
+
+**Table of Contents** - took this from the GIS website: "The table of contents lists all the layers on the map and shows what the features in each layer represent. The map's table of contents helps you manage the display order of map layers and symbol assignment, as well as set the display and other properties of each map layer." https://desktop.arcgis.com/en/arcmap/latest/map/working-with-arcmap/using-the-table-of-contents.htm
+
+Let's take a brief tour through the ribbons. One *important thing to note here* is that you can customize these much the same way as you can word's ribbons. 
 
 ![[/images/map.png]]
-Navigate
-Layer
-Selection
-Inquiry
-Labeling
-Offline
+**Navigate**
+**Layer**
+**Selection**
+**Inquiry**
+**Labeling**
+**Offline**
 
 ![[/images/analysis.png]]
-Geoprocessing
-Tools
-Portal
-Workflows
-Raster
+**Geoprocessing**
+**Tools**
+**Portal**
+**Workflows**
+**Raster**
 
 ![[/images/edit.png]]
-Clipboard
-Manage Edits
-Snapping
-Selection
-Tools
-Elevation
-Corrections
-Data Reviewer
+**Clipboard**
+**Manage Edits**
+**Snapping**
+**Selection**
+**Tools**
+**Elevation**
+**Corrections**
+**Data Reviewer**
 
 ![[/images/help.png]]
-Customize
-Help
-Performance
-Contact Us
+**Customize**
+**Help**
+**Performance**
+**Contact Us**
 
 ![[/images/imagery.png]]
-Ortho Mapping
-Alignment
-Analysis
-Image Classification
-Mensuration
-Tools
-Share
-Motion Imagery
+**Ortho Mapping**
+**Alignment**
+**Analysis**
+**Image Classification**
+**Mensuration**
+**Tools**
+**Share**
+**Motion Imagery**
 
 ![[/images/insert.png]]
-Project
-Layer Templates
-Link Analysis
-Measurements
-Styles
-Favorites
+**Project**
+**Layer Templates**
+**Link Analysis**
+**Measurements**
+**Styles**
+**Favorites**
 
 ![[/images/share.png]]
-Package
-Share As
-Status
-Manage
-Save As
-Output
+**Package**
+**Share As**
+**Status**
+**Manage**
+**Save As**
+**Output**
 
 ![[/images/view.png]]
-View
-Link
-Windows
-Thumbnail
-Accessibility
-Annotation
-Device Location
-Scene
-View Clipping
-Navigation
+**View**
+**Link**
+**Windows**
+**Thumbnail**
+**Accessibility**
+**Annotation**
+**Device Location**
+**Scene**
+**View Clipping**
+**Navigation**
 
 ### <a id ="welling"></a>Let's Explore Wellington
 You can find the data for this here: 
