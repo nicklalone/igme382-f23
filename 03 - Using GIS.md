@@ -49,6 +49,7 @@
 * **Map Scale** - https://education.nationalgeographic.org/resource/map-scale/
 * **Map Projections** - https://www.gislounge.com/map-projection/
 * **Generalization** - https://support.esri.com/en-us/gis-dictionary/generalization
+
 # <a id="day1"></a>Tuesday 
 ## <a id ="getstart"></a>We Finally Get Started
 So for the past couple of weeks, we've been stuck in a bit of a torpor. I didn't have permissions to show GIS in class unless I brought a windows machine to class. This led to a week of delaying new instruction. Now, I have the permissions for us to really begin running. 
@@ -94,10 +95,13 @@ I also like this collection from RIT's own Brian Tomaszewski:
 * https://www.youtube.com/watch?v=zrFm5HzwPNw&list=PLtrmEEvdGsNqsQ5ZpOapSmVQklIG9Bu5W&ab_channel=GIScience
 
 ### <a id ="uitut"></a>UI Tutorial
-
+Ribbons
+Types of datafiles
+Shapefiles
+Difference between online vs pro
 
 ### <a id ="welling"></a>Let's Explore Wellington
-
+You can find the data for this here: 
 
 ### <a id ="howwork"></a>How does it all work?
 
