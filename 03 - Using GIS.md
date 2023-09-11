@@ -96,15 +96,88 @@ I also like this collection from RIT's own Brian Tomaszewski:
 
 ### <a id ="uitut"></a>UI Tutorial
 Ribbons
-Types of datafiles
-Shapefiles
-Difference between online vs pro
+![[/images/whole.png]]
+Ribbons
+Map Explorer
+Database Editor
+Python Editor / Jupyter Notebook
+Table of Contents
+
+![[/images/map.png]]
+Navigate
+Layer
+Selection
+Inquiry
+Labeling
+Offline
+
+![[/images/analysis.png]]
+Geoprocessing
+Tools
+Portal
+Workflows
+Raster
+
+![[/images/edit.png]]
+Clipboard
+Manage Edits
+Snapping
+Selection
+Tools
+Elevation
+Corrections
+Data Reviewer
+
+![[/images/help.png]]
+Customize
+Help
+Performance
+Contact Us
+
+![[/images/imagery.png]]
+Ortho Mapping
+Alignment
+Analysis
+Image Classification
+Mensuration
+Tools
+Share
+Motion Imagery
+
+![[/images/insert.png]]
+Project
+Layer Templates
+Link Analysis
+Measurements
+Styles
+Favorites
+
+![[/images/share.png]]
+Package
+Share As
+Status
+Manage
+Save As
+Output
+
+![[/images/view.png]]
+View
+Link
+Windows
+Thumbnail
+Accessibility
+Annotation
+Device Location
+Scene
+View Clipping
+Navigation
 
 ### <a id ="welling"></a>Let's Explore Wellington
 You can find the data for this here: 
 
 ### <a id ="howwork"></a>How does it all work?
-
+Types of datafiles
+Difference between online vs pro
 
 # <a id="day2"></a>Thursday 
 
