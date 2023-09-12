@@ -183,7 +183,7 @@ Let's take a brief tour through the ribbons. One *important thing to note here* 
 **Navigation**
 
 ### <a id ="welling"></a>Let's Explore Wellington
-You can find the data for this here: 
+You can find the data for this here: https://pro.arcgis.com/en/pro-app/latest/get-started/introducing-arcgis-pro.htm?adumkts=social&utm_source=social&aduc=social&adum=external&aduca=social_technical&adusf=youtube
 
 ### <a id ="howwork"></a>How does it all work?
 Types of datafiles

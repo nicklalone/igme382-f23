@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c6c776ce2921095",
+        "id": "7b24115d5184a0f3",
         "type": "tabs",
         "children": [
           {
-            "id": "b3d2be52ed295eeb",
+            "id": "8e9c3ca24474300c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Using GIS.md",
+                "file": "01 - Intro and Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5055274963379
+    "width": 300
   },
   "right": {
     "id": "3fceabc39a7b66b5",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Using GIS.md",
+                "file": "01 - Intro and Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Using GIS.md",
+                "file": "01 - Intro and Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Using GIS.md"
+                "file": "01 - Intro and Getting Started.md"
               }
             }
           }
@@ -146,12 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3d2be52ed295eeb",
+  "active": "8e9c3ca24474300c",
   "lastOpenFiles": [
+    "images/edit.png",
+    "images/help.png",
+    "images/whole.png",
+    "images/analysis.png",
+    "images/imagery.png",
+    "images/view.png",
+    "images/share.png",
+    "images/map.png",
+    "images/insert.png",
+    "images",
+    "PPTs/03 - Past Classes/2021/IGME 382 Fall 20121 Week 5 GPS and Web Apps.pptx",
+    "PPTs/01 - Current Class Published/01 - First Day.pptx",
+    "PPTs/03 - Past Classes/2021/IGME 382 Fall 2021 Week 10 Geoprocessing and Python.pptx",
+    "PPTs/03 - Past Classes/2021/IGME 382 Fall 2021 Week 1 Introduction.pptx",
+    "PPTs/01 - Current Class Published/03 - Data Models.pdf",
+    "PPTs/02 - Current Class Raw/03 - Data Models.pdf",
+    "PPTs/01 - Current Class Published/01 - Thursday.pptx",
+    "PPTs/01 - Current Class Published/03 - Raster v Vector.pdf",
+    "PPTs/02 - Current Class Raw/03 - Raster v Vector.pdf",
     "02 - Installing GIS.md",
-    "PPTs/03 - Past Classes/2020/06 - IGME 382 2020 Week 6 Storymaps.pdf",
-    "PPTs/03 - Past Classes/2020/01 - IGME 382 Fall 2020 Week 1.pdf",
-    "01 - Intro and Getting Started.md",
-    "03 - Using GIS.md"
+    "01 - Intro and Getting Started.md"
   ]
 }
