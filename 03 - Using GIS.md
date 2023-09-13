@@ -3,13 +3,16 @@
 1. [Concepts to Date](#midterm)
 2. [Concepts for This Week](#thisweek)
 3. [Day 1](#day1)
+	1. Mostly we just went through some terms.
+4. [Day 2](#day2)
 	1. [We Finally Get Started](#getstart)
 		1. [Introducing ArcGIS Pro](#intro)
-		2. [UI Tutorial](#UItut)
-		3. [Let's Explore Wellington](#welling)
-		4. [How does it all work?](#howwork)
-4. [Day 2](#day2)
-	1. [Let's Think About Rochester](#rochome)
+		2. [Filetypes, extensions, and things](#filetypes)
+		3. [UI Tutorial](#UItut)
+			1. [The Barebones of Ribbons](#barebo)
+		4. [Let's Explore Wellington](#welling)
+		5. [How does it all work?](#howwork)
+	2. [Let's Think About Rochester](#rochome)
 		1. [Getting Started](#getstart)
 		2. [What features do we want to highlight?](#highlight)
 		3. [Doing it](#doing)
@@ -97,7 +100,9 @@ I also like this collection from RIT's own Brian Tomaszewski:
 This is also a great starting tutorial:
 * https://www.youtube.com/playlist?list=PLRrQArPWjCiXlwfR9wN2XAphIbj56GNCi 
 
-### <a id ="uitut"></a>UI Tutorial
+# <a id="day2"></a>Thursday 
+
+### <a id ="uitut"></a>UI Tour
 
 Here is a general appearance of the mapping windows.
 ![[/images/whole.png]]
@@ -113,46 +118,57 @@ Here is a general appearance of the mapping windows.
 
 Let's take a brief tour through the ribbons. One *important thing to note here* is that you can customize these much the same way as you can word's ribbons. 
 
+### <a id="filetypes"></a>Filetypes, extensions, and things.
+Just like a powerpoint file, the way you save, its file type and other options all have impacts on how your data is saved and transferrable. There's a good discussion here: https://pro.arcgis.com/en/pro-app/latest/help/projects/what-is-a-project.htm but we'll consolidate that information a bit.
+
+* **GDB** = Every project has a default geodatabase, which is usually a new file geodatabase (.gdb) created with the project.
+
+* **PPKX / APRX** = A project is stored on your computer as a file with the extension .aprx. By default, it is stored in a system folder created with the project. The project file is associated with a geodatabase and a toolbox. Other folders and files, such as the [project index](https://pro.arcgis.com/en/pro-app/3.1/help/projects/index-project-items.htm) and the [backup project file](https://pro.arcgis.com/en/pro-app/3.1/help/projects/save-a-project.htm#ESRI_SECTION1_090E953C44C54D35BC0DB35E35340FD4), are created with the project or during your ArcGIS Pro session. These files also contain: 
+	* -   A connection to the [home folder](https://pro.arcgis.com/en/pro-app/3.1/help/projects/change-a-project-s-settings.htm#ESRI_SECTION1_3DEF4003F07E48B2A691C57FC4C692AC) (the system folder that contains the project file)
+	-   A connection to the project's [default geodatabase](https://pro.arcgis.com/en/pro-app/3.1/help/projects/change-a-project-s-settings.htm#GUID-E40436B0-4B13-4DC3-A1C7-B0A815F406F0)
+	-   A connection to the project's [default toolbox](https://pro.arcgis.com/en/pro-app/3.1/help/projects/change-a-project-s-settings.htm#GUID-9E5402D2-0050-4469-AC3B-880D99A36E0E)
+	-   Connections to default [styles](https://pro.arcgis.com/en/pro-app/3.1/help/projects/styles.htm)
+	-   Connections to default [locators](https://pro.arcgis.com/en/pro-app/3.1/help/data/geocoding/about-locators.htm)
+	-   A connection to an [active portal](https://pro.arcgis.com/en/pro-app/3.1/help/projects/manage-portal-connections-from-arcgis-pro.htm#ESRI_SECTION1_1D170FE7526E4FCB8A36FAAD8A4D5D5B) if you are [signed in](https://pro.arcgis.com/en/pro-app/3.1/help/projects/sign-in-to-your-organization.htm) to ArcGIS Pro.
+
+* **APTX** = these are template files.
+  
+* Default Filepath is always:  C:\Users\<username>\Documents\ArcGIS\Projects but you can change it. 
+
+#### Use cases for GIS
+There are around 4 ways to think about what kind of project and what kind of setup you want to worry about with regard to GIS. Those 4 approaches can be found here: https://pro.arcgis.com/en/pro-app/latest/help/projects/what-is-a-project.htm but I will paste them below: 
+
+-   You work mainly alone. You create and save projects on your own computer. 
+	- This is what we'll be doing in this class almost always.
+-   You work with others on the same projects that are stored on a network drive.
+	- We do have a network drive here at RIT. 
+-   You and your colleagues work on different projects, but your projects use a common template for consistency in maps, layouts, and other items.
+	- This is going to feel a lot like working for a software designer with a standard frame for coding.
+-   You share maps, layers, and other project items with colleagues. You may also share entire projects.
+	- Here, you have to decide if you want to send all the files or make them available online.
+
+One final note: 
+	Projects can't be copied, moved, renamed, or deleted using ArcGIS Pro commands. Using file system commands for these operations isn't supported (except to delete projects) and risks corrupting the project. To copy, move, or rename a project, share it as a project package or [save the project with a new name](https://pro.arcgis.com/en/pro-app/3.1/help/projects/save-a-project.htm#ESRI_SECTION1_3DF32703CF96472384AE757C155039FC).
+
+Let's walk through GIS.
+
+### <a id ="barebo"></a>Barebones of Ribbons
+Ribbons for ARCGIS work the same way as those in the Office Suite from Microsoft. In fact, that seems to be the guiding light in terms of software design. What i'd probably call the GIS is a mix between the curated experience of Office with the power of something like PyCharm or even a simple piece of software like notepad++. 
+
+Getting to know these ribbons is super important as it will help you do something very powerful: make the maps or analyze the maps you want and share them with others. At its most basic, we can see the following:
+
+- **Map Ribbon:** Navigating, adding data, and selecting features 
+- **Analysis Ribbon:** Performing spatial analysis 
+- **Editing Ribbon:** Editing and creating new features in your map 
+- **Share Ribbon:** Packaging or publishing a map layer or the map itself 
+
 ![[/images/map.png]]
-**Navigate**
-**Layer**
+**Navigate** - this is a group of commands that you can use to directly manipulate the view of the map. 
+**Layer** - it does what it says. It adds layers, allows you to add data, and you can change the base map.
 **Selection**
 **Inquiry**
 **Labeling**
 **Offline**
-
-![[/images/analysis.png]]
-**Geoprocessing**
-**Tools**
-**Portal**
-**Workflows**
-**Raster**
-
-![[/images/edit.png]]
-**Clipboard**
-**Manage Edits**
-**Snapping**
-**Selection**
-**Tools**
-**Elevation**
-**Corrections**
-**Data Reviewer**
-
-![[/images/help.png]]
-**Customize**
-**Help**
-**Performance**
-**Contact Us**
-
-![[/images/imagery.png]]
-**Ortho Mapping**
-**Alignment**
-**Analysis**
-**Image Classification**
-**Mensuration**
-**Tools**
-**Share**
-**Motion Imagery**
 
 ![[/images/insert.png]]
 **Project**
@@ -162,13 +178,12 @@ Let's take a brief tour through the ribbons. One *important thing to note here* 
 **Styles**
 **Favorites**
 
-![[/images/share.png]]
-**Package**
-**Share As**
-**Status**
-**Manage**
-**Save As**
-**Output**
+![[/images/analysis.png]]
+**Geoprocessing**
+**Tools**
+**Portal**
+**Workflows**
+**Raster**
 
 ![[/images/view.png]]
 **View**
@@ -182,16 +197,46 @@ Let's take a brief tour through the ribbons. One *important thing to note here* 
 **View Clipping**
 **Navigation**
 
+![[/images/edit.png]]
+**Clipboard**
+**Manage Edits**
+**Snapping**
+**Selection**
+**Tools**
+**Elevation**
+**Corrections**
+**Data Reviewer**
+
+![[/images/imagery.png]]
+**Ortho Mapping**
+**Alignment**
+**Analysis**
+**Image Classification**
+**Mensuration**
+**Tools**
+**Share**
+**Motion Imagery**
+
+![[/images/share.png]]
+**Package**
+**Share As**
+**Status**
+**Manage**
+**Save As**
+**Output**
+
+![[/images/help.png]]
+**Customize**
+**Help**
+**Performance**
+**Contact Us**
+
 ### <a id ="welling"></a>Let's Explore Wellington
 You can find the data for this here: https://pro.arcgis.com/en/pro-app/latest/get-started/introducing-arcgis-pro.htm?adumkts=social&utm_source=social&aduc=social&adum=external&aduca=social_technical&adusf=youtube
-
 ### <a id ="howwork"></a>How does it all work?
 Types of datafiles
 Difference between online vs pro
-
-# <a id="day2"></a>Thursday 
-
-## We Apply What We Got Started
+## Let's Apply What We Got Started - Assignment 1
 
 
 ### <a id ="rochome"></a>Let's Think About Rochester (or your hometown)
