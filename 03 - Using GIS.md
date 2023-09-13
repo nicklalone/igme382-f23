@@ -165,10 +165,10 @@ Getting to know these ribbons is super important as it will help you do somethin
 ![[/images/map.png]]
 **Navigate** - this is a group of commands that you can use to directly manipulate the view of the map. 
 **Layer** - it does what it says. It adds layers, allows you to add data, and you can change the base map.
-**Selection**
-**Inquiry**
-**Labeling**
-**Offline**
+**Selection** - This does what it says. When you need to select things whether they be points, lines, polygons, or some other things, this will help you. It can be confusing when you're working with layers because (much like photoshop or anything in the adobe suite) sometimes what you want to select is under something or somethings. I liked this article: https://desktop.arcgis.com/en/arcmap/latest/map/working-with-layers/selecting-features-interactively.htm
+**Inquiry** - 
+**Labeling** - 
+**Offline** - 
 
 ![[/images/insert.png]]
 **Project**
@@ -230,6 +230,11 @@ Getting to know these ribbons is super important as it will help you do somethin
 **Help**
 **Performance**
 **Contact Us**
+### There are also Contextual Tabs in the Ribbon.
+Table
+Data
+Labeling
+Appearance
 
 ### <a id ="welling"></a>Let's Explore Wellington
 You can find the data for this here: https://pro.arcgis.com/en/pro-app/latest/get-started/introducing-arcgis-pro.htm?adumkts=social&utm_source=social&aduc=social&adum=external&aduca=social_technical&adusf=youtube
