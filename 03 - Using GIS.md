@@ -246,10 +246,10 @@ Appearance
 ...and more.
 ## Let's Apply What We Got Started - Assignment 1
 Your assignment is very straight forward, I hope, what I want are 3 things that are all done inside of GIS: 
-1. Find your hometown.
-2. Find RIT.
-3. Calculate the distance between the two.
-4. Put it all in a report along with a couple sentences about how far you've come and the last map...
+1. Find your hometown, write down the coordinates.
+2. Find RIT, write down the coordinates.
+3. Calculate the distance between the two somehow.
+4. Put it all in a layout in GIS along with a couple sentences about how far you've come.
 5. Where you want to end up. 
 
 We aren't using storymaps yet, this is just fumbling around with tools.
