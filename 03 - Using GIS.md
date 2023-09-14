@@ -100,8 +100,12 @@ I also like this collection from RIT's own Brian Tomaszewski:
 This is also a great starting tutorial:
 * https://www.youtube.com/playlist?list=PLRrQArPWjCiXlwfR9wN2XAphIbj56GNCi 
 
-# <a id="day2"></a>Thursday 
+# <a id="day2"></a>Thursday
 
+### <a id ="welling"></a>Let's Explore Wellington
+You can find the data for this here: https://pro.arcgis.com/en/pro-app/latest/get-started/introducing-arcgis-pro.htm?adumkts=social&utm_source=social&aduc=social&adum=external&aduca=social_technical&adusf=youtube
+
+You can also find it in GIS itself. I'll show you how to do this.
 ### <a id ="uitut"></a>UI Tour
 
 Here is a general appearance of the mapping windows.
@@ -167,25 +171,28 @@ Getting to know these ribbons is super important as it will help you do somethin
 **Layer** - it does what it says. It adds layers, allows you to add data, and you can change the base map.
 **Selection** - This does what it says. When you need to select things whether they be points, lines, polygons, or some other things, this will help you. It can be confusing when you're working with layers because (much like photoshop or anything in the adobe suite) sometimes what you want to select is under something or somethings. I liked this article: https://desktop.arcgis.com/en/arcmap/latest/map/working-with-layers/selecting-features-interactively.htm
 **Inquiry** - 
-**Labeling** - 
-**Offline** - 
+**Labeling** - Allows you to go in and label your map. I know, i've used the word to define the word. Have a look at: https://pro.arcgis.com/en/pro-app/latest/get-started/label-your-map.htm
+**Offline** - Makes your maps and things available without logging in. This part of the toolbar, at least for what we're doing in class, is probably a bit silly as you need to be online to work in GIS due to our license.
 
 ![[/images/insert.png]]
-**Project**
-**Layer Templates**
-**Link Analysis**
-**Measurements**
-**Styles**
-**Favorites**
+**Project** - Allows you to start making new layers or reports based on your map. 
+**Layer Templates** - When you're making a new layer, you might use these to help make the busywork less...busy. https://pro.arcgis.com/en/pro-app/latest/help/layouts/layout-files.htm
+**Link Analysis** - sometimes you need a way to deal with the various things that are linked together in your mind, or in the city's mind. What this does is basically network analysis but it can also do so much more: https://doc.arcgis.com/en/pro-intelligence/latest/help/link-analysis-with-arcgis-pro.htm
+	These last 3 items are specific to reports.
+	**Measurements** 
+	**Styles**
+	**Favorites**
 
 ![[/images/analysis.png]]
-**Geoprocessing**
+**Geoprocessing** - 
 **Tools**
 **Portal**
 **Workflows**
 **Raster**
 
 ![[/images/view.png]]
+Generally, this tab of the ribbon is about manipulating what you see, getting your windows and panes in order, and everything related to how your map is currently looking.
+
 **View**
 **Link**
 **Windows**
@@ -230,29 +237,19 @@ Getting to know these ribbons is super important as it will help you do somethin
 **Help**
 **Performance**
 **Contact Us**
-
 ### There are also Contextual Tabs in the Ribbon.
+These will appear when your have selected things that require them.
 Table
 Data
 Labeling
 Appearance
-
-### <a id ="welling"></a>Let's Explore Wellington
-You can find the data for this here: https://pro.arcgis.com/en/pro-app/latest/get-started/introducing-arcgis-pro.htm?adumkts=social&utm_source=social&aduc=social&adum=external&aduca=social_technical&adusf=youtube
-### <a id ="howwork"></a>How does it all work?
-Types of datafiles
-Difference between online vs pro
+...and more.
 ## Let's Apply What We Got Started - Assignment 1
+Your assignment is very straight forward, I hope, what I want are 3 things that are all done inside of GIS: 
+1. Find your hometown.
+2. Find RIT.
+3. Calculate the distance between the two.
+4. Put it all in a report along with a couple sentences about how far you've come and the last map...
+5. Where you want to end up. 
 
-
-### <a id ="rochome"></a>Let's Think About Rochester (or your hometown)
-
-
-### <a id ="getstart"></a>Getting Started
-
-
-### <a id ="highlight"></a>What features do we want to highlight?
-
-
-### <a id ="doing"></a>Doing it
-
+We aren't using storymaps yet, this is just fumbling around with tools.
