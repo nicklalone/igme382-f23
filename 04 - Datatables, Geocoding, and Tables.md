@@ -54,10 +54,17 @@ To add a feature class to a map, do the following (additionally, i thought [this
    ![](/images/whole.png)
 2. Right click on the databases and find the .gdb file. 
 3. Click on, "Feature Class"
+4. 
+
+For the following items, we'll be referencing: [this tutorial](https://pro.arcgis.com/en/pro-app/latest/help/data/geodatabases/overview/feature-class-basics.htm) and it has more on it than what i'm placing here. We'll circle back around as we get further in. 
 ### <a id ="points"></a>Points
+- Points—Features that are too small to represent as lines or polygons as well as point locations (such as GPS observations).
 ### <a id ="line"></a>Line
+- Lines—Represent the shape and location of geographic objects, such as street centerlines and streams, too narrow to depict as areas. Lines are also used to represent features that have length but no area, such as contour lines and boundaries.
 ### <a id ="polygons"></a>Polygons
+- Polygons—A set of many-sided area features that represents the shape and location of homogeneous feature types such as states, counties, parcels, soil types, and land-use zones.
 ### <a id ="datatab"></a>Data Tables
+
 
 ## <a id = "geocaching"></a>Geocaching
 
