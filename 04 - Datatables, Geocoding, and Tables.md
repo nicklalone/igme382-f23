@@ -53,8 +53,14 @@ To add a feature class to a map, do the following (additionally, i thought [this
 1. Go to the "Catalog" which is on the right of the default layout: 
    ![](/images/whole.png)
 2. Right click on the databases and find the .gdb file. 
-3. Click on, "Feature Class"
-4. 
+ ![](/images/04/1.PNG)
+1. Click on, "Feature Class"
+![](/images/04/2.PNG)
+![](/images/04/3.PNG)
+![](/images/04/4.PNG)
+![](/images/04/5.PNG)
+![](/images/04/6.PNG)
+![](/images/04/7.PNG)
 
 For the following items, we'll be referencing: [this tutorial](https://pro.arcgis.com/en/pro-app/latest/help/data/geodatabases/overview/feature-class-basics.htm) and it has more on it than what i'm placing here. We'll circle back around as we get further in. 
 ### <a id ="points"></a>Points
