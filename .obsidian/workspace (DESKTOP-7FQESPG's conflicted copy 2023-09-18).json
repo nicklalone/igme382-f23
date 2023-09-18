@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "5bfd4582e904edfa",
+    "id": "8804f142304e573f",
     "type": "split",
     "children": [
       {
-        "id": "07a3900e8cd5c91d",
+        "id": "5c6c776ce2921095",
         "type": "tabs",
         "children": [
           {
-            "id": "5fc5b51b30828a11",
+            "id": "b3d2be52ed295eeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Datatables, Geocoding, and Tables.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fec00c69b490d394",
+    "id": "0a4f4c2757ebad12",
     "type": "split",
     "children": [
       {
-        "id": "7d01a72ce4da1552",
+        "id": "262480f9d160795d",
         "type": "tabs",
         "children": [
           {
-            "id": "f9cfdebf764654e1",
+            "id": "82926e03fdc8fc76",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "d9d448b59703ac31",
+            "id": "de4dd0de49e1610d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "34dad95fa34e4650",
+            "id": "38a363d35e72c3d1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.5055274963379
   },
   "right": {
-    "id": "f1f0ae40e9a5b33b",
+    "id": "3fceabc39a7b66b5",
     "type": "split",
     "children": [
       {
-        "id": "a6789558b121332a",
+        "id": "57b7785cab928bbc",
         "type": "tabs",
         "children": [
           {
-            "id": "e9b388e41842dad6",
+            "id": "2dda1da488a3c79e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Datatables, Geocoding, and Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "05f388de41bc68dc",
+            "id": "2699547d689fe7fe",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Datatables, Geocoding, and Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "57b1c3457cb645b2",
+            "id": "567383ff79a6e35c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "924393a976771f2c",
+            "id": "8e1560da1e13dc51",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "04 - Datatables, Geocoding, and Tables.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,30 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc5b51b30828a11",
+  "active": "b3d2be52ed295eeb",
   "lastOpenFiles": [
-    "03 - Using GIS.pdf",
-    "04 - Datatables, Geocoding, and Tables.md",
-    "04 - Data, Databases, and GIS.md",
-    "13- Final Projects.md",
-    "12 - Ethics and Maps.md",
-    "11 - Disaster Maps.md",
-    "10 - Game Cartography.md",
-    "09 - Midterm and Thanksgiving Break.md",
-    "08 - Geodesign and Midterm Review.md",
-    "07 - Remote Sensing.md",
-    "06 - Storymaps.md",
-    "06 - GIS Online.md",
-    "05 - Collecting Data.md",
+    "03 - Using GIS.md",
     "02 - Installing GIS.md",
-    "Untitled",
-    "Tuesday.md",
-    "PPTs/02 - Current Class Raw/_Ch2_P3_Sampling.pdf",
-    "PPTs/01 - Current Class Published/03 - Raster v Vector.pdf",
-    "PPTs/01 - Current Class Published/03 - Data Structures.pdf",
-    "PPTs/01 - Current Class Published/03 - Data Models.pdf",
-    "PPTs/03 - Past Classes/2020/07 - IGME Fall 2020 Week 7 Remote Sensing and UAVs.pdf",
-    "PPTs/03 - Past Classes/2020/04 - IMGE 382 Fall 2020 Week 4 Tables and Cartography.pdf",
-    "PPTs/03 - Past Classes/2020/01 - IGME 382 Fall 2020 Week 1.pdf"
+    "PPTs/03 - Past Classes/2020/06 - IGME 382 2020 Week 6 Storymaps.pdf",
+    "PPTs/03 - Past Classes/2020/01 - IGME 382 Fall 2020 Week 1.pdf",
+    "01 - Intro and Getting Started.md"
   ]
 }
