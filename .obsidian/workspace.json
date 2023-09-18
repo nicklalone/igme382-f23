@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07a3900e8cd5c91d",
+        "id": "6a29857ac2f085ef",
         "type": "tabs",
         "children": [
           {
-            "id": "5fc5b51b30828a11",
+            "id": "e81097955ca83d05",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.50043487548828
   },
   "right": {
     "id": "f1f0ae40e9a5b33b",
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc5b51b30828a11",
+  "active": "f9cfdebf764654e1",
   "lastOpenFiles": [
-    "03 - Using GIS.pdf",
+    "images/04",
+    "images.md",
     "04 - Datatables, Geocoding, and Tables.md",
+    "05 - Collecting Data.md",
+    "03 - Using GIS.pdf",
     "04 - Data, Databases, and GIS.md",
     "13- Final Projects.md",
     "12 - Ethics and Maps.md",
@@ -160,7 +163,6 @@
     "07 - Remote Sensing.md",
     "06 - Storymaps.md",
     "06 - GIS Online.md",
-    "05 - Collecting Data.md",
     "02 - Installing GIS.md",
     "Untitled",
     "Tuesday.md",

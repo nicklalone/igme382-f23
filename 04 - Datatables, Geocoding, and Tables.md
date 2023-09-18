@@ -3,8 +3,7 @@
 1. [Concepts to Date](#midterm)
 2. [Concepts for This Week](#thisweek)
 3. [Day 1](#day1)
-	1. [Shapefiles](#shapef)
-	2. [Vector Data](#vectord)
+	2. [Class Features](#classfeatures)
 		* [Points](#points)
 		* [Line](#lines)
 		* [Polygons](#polygons)
@@ -38,18 +37,30 @@
 	* Isarithmic (heat) - http://wiki.gis.com/wiki/index.php/Isarithmic_map
 * Shapefiles
 # <a id = "today"></a>Concepts for This Week 
-* Shapefiles
-* Vector
+* Feature Classes
+* Types of Feature Classes
 * Data Table
-* Join
 # <a id="day1"></a>Tuesday 
-## <a id ="shapef"></a>Shapefiles
-## <a id ="vectord"></a>Vector Data
+## <a id ="classfeatures"></a>Feature Classes
+From [here](https://pro.arcgis.com/en/pro-app/latest/help/data/geodatabases/overview/feature-class-basics.htm), we see that Feature Classes are: 
+	Feature classes are homogeneous collections of common features, each having the same spatial representation—such as points, lines, or polygons—and a common set of attribute columns, for example, a line feature class for representing road centerlines. The four most commonly used feature classes are points, lines, polygons, and annotation (a term for map text).
+So basically, we have a basemap which is a raster-based (mostly) file that is created through imaging tools like satellites, cars driving around, airplanes, drones, and just folks walking around. If we want to construct something from that raster layer that isn't obvious, like a point of interest, we have to add it ourselves. 
+
+Generally, this is done by adding a vector layer to a map. In this course, we will be talking a bit about 3 specific Feature Classes: points, lines, and polygons. 
+
+To add a feature class to a map, do the following (additionally, i thought [this tutorial](https://pro.arcgis.com/en/pro-app/latest/get-started/create-points-on-a-map.htm) was a bit too fast but also a bit more useful than anything else I could find): 
+0. Start a new project with the map template.
+1. Go to the "Catalog" which is on the right of the default layout: 
+   ![](/images/whole.png)
+2. Right click on the databases and find the .gdb file. 
+3. Click on, "Feature Class"
 ### <a id ="points"></a>Points
 ### <a id ="line"></a>Line
 ### <a id ="polygons"></a>Polygons
 ### <a id ="datatab"></a>Data Tables
-## <a id ="joins"></a>Joins
+
+## <a id = "geocaching"></a>Geocaching
+
 ## <a id ="two"></a>Thursday and Assignment 2
 ### Parameters of the Assignment:
 1. Download the Geocaching App:
@@ -61,16 +72,17 @@
 	2. Convert them to decimal by dividing by 60 or going to: https://www.geocachingtoolbox.com/index.php?lang=en&page=coordinateNotation&status=result
 	3. Take a selfie at the site.
 3. Put the data into GIS.
+	* Create a feature layer in the DB of a project file. 
 	* Plot each point on a baselayer of your choosing. 
-	* Convert each of the 5 points to lines that make a polygon. 
+	* Plot a Polygon in a separate feature layer.
 4. Produce a report with the following: 
 	1. Page 1 has: 
 		1. Geocache names and Coordinates
-		2. Map of lines.
-		3. Map with a polygon. 
+		2. Map of points with labels without a polygon.
+		3. Map with a polygon instead of points. 
 	2. Pages 2-6 has:
 		1. Geocache Name Plus Coordinates
-		2. Selfie Image
-		3. Map of Point
+		2.  Map of Point with label
+		3. Selfie Image
 5. Send to PDF.
 6. Designated Course Rep submits PDF by Sunday Night.
