@@ -4,12 +4,10 @@
 2. [Concepts for This Week](#thisweek)
 3. [Day 1](#day1)
 	2. [Class Features](#classfeatures)
-		
-  		1. [Points](#points)
-		2. [Line](#lines)
-		3. [Polygons](#polygons)
-		4. [Data Tables](#datatab)
-
+	* [Points](#points)
+	* [Line](#lines)
+	* [Polygons](#polygons)
+	* [Data Tables](#datatab)
 4. [Assignment 2](#two)
 
 ---------------- Table of Contents ---------------- 
