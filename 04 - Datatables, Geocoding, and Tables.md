@@ -67,39 +67,41 @@ To add a feature class to a map, do the following (additionally, i thought [this
    
    Now that we've started this, let's dig a bit in.
    
- ![](/images/04/1.PNG) 
+ ![](/images/04/1.png) 
  
 5. Click on, "Feature Class" and we're going to be going through a wizard that will help us start the feature class. And you might wonder, what is a feature class? Well, it's basically you setting up an object.
  
-![](/images/04/2.PNG)
+![](/images/04/2.png)
 
 4. This is the wizard. It should be relatively straight forward, I hope?! Let's walk through it a bit. First things first, let's get a look at the what the wizard wants (it's the one ring, it's always the one ring).
 
-![](/images/04/3.PNG)
+![](/images/04/3.png)
 
 5. So, with naming schemas for variables, i'm sure you've been told a lot during your programming courses. This is no different. If you've not taken any programming courses, know this: there are limits to names, especially as we get into projects with hundreds, if not thousands of feature classes. We'll have a whole week or so on data management though so that's something to look forward to!
    
    So, with, "Feature Class Type" this is where the big guns come out. What are you making? Do you make a polygon to represent builtings? Do you make a dot because the object is too small? What? Well, in this case we're just going to place a few points here and there. 
 
-![](/images/04/4.PNG)
+![](/images/04/4.png)
 
 6. Here, we'll be working in and around what amounts to a data table. I want you to do 2 things here: 1. Change OBJECT ID to Name and 2. Add a field called, "LatLong." After this, you can hit next and explore the rest of it, but we'll just be doing defaults. 
 
-![](/images/04/5.PNG)
+![](/images/04/5.png)
 
 7. Alright! We made our first feature class. As you can see, I am an adult who names things how they should be named. What i'd suggest is to use what the feature class will be showing as the name. So like, for the assignment, we might consider something like, "Geocaches". But there's some fun to do here. 
    
    Go to the "Edit" tab in the Ribbon. 
 
-![](/images/04/6.PNG)
+![](/images/04/6.png)
 
 8. So we have a feature class which created a table for us to flesh out...but we don't have any objects! So, the table is empty. If we add some things to the table, nothing really happens. But if we click on this, "Create" button, what happens? What's that on the side?
 
-![](/images/04/7.PNG)
+![](/images/04/7.png)
 
 9. We got a whole thing here. Let's take a closer look: 
 
-![](8.png.md)
+![](8.png)
+
+![](9.png)
 
 So what's happening here? Well, it's relatively simpker
 
