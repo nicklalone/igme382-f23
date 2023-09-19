@@ -8,7 +8,6 @@
 		* [Line](#lines)
 		* [Polygons](#polygons)
 		* [Data Tables](#datatab)
-		* [Joins](#joins)
 4. [Assignment 2](#two)
 
 ---------------- Table of Contents ---------------- 
@@ -35,11 +34,15 @@
 	* Proportional Symbol - https://wiki.gis.com/wiki/index.php/Proportional_symbol_map#:~:text=A%20Proportional%20symbol%20map%20is,to%20represent%20a%20quantitative%20variable.
 	* Dot Density - https://www.axismaps.com/guide/dot-density
 	* Isarithmic (heat) - http://wiki.gis.com/wiki/index.php/Isarithmic_map
-* Shapefiles
+* Database Files (GDB) - 
 # <a id = "today"></a>Concepts for This Week 
-* Feature Classes
-* Types of Feature Classes
-* Data Table
+* Geodatabases - 
+* Feature Classes - 
+	* Types of Feature Classes - 
+		* Line - 
+		* Point - 
+		* Polygon - 
+* Data Table - 
 # <a id="day1"></a>Tuesday 
 ## <a id ="classfeatures"></a>Feature Classes
 From [here](https://pro.arcgis.com/en/pro-app/latest/help/data/geodatabases/overview/feature-class-basics.htm), we see that Feature Classes are: 
@@ -49,20 +52,52 @@ So basically, we have a basemap which is a raster-based (mostly) file that is cr
 Generally, this is done by adding a vector layer to a map. In this course, we will be talking a bit about 3 specific Feature Classes: points, lines, and polygons. 
 
 To add a feature class to a map, do the following (additionally, i thought [this tutorial](https://pro.arcgis.com/en/pro-app/latest/get-started/create-points-on-a-map.htm) was a bit too fast but also a bit more useful than anything else I could find): 
+
 0. Start a new project with the map template.
+   
 1. Go to the "Catalog" which is on the right of the default layout: 
    ![](/images/whole.png)
-2. Right click on the databases and find the .gdb file. 
- ![](/images/04/1.PNG)
-1. Click on, "Feature Class"
+2. Click on the databases and find the .gdb file within. You'll be right clicking on it but let's unpack this a bit first. 
+   
+   What the gdb file is is essentially a database of things relevant to your project. Those things are objects like system tables but also the data your map contains. This includes but is not limited to: Feature classes and datasets, mosaic data, raster data, and various tables.
+   
+   They can also do things like store geometric networks as well as network maps, various kinds of parcel fabrics (think video game skins...kinda, but they're poly's for rendering 3D), terrains, topologies, and various kinds of networks. 
+   
+   Now that we've started this, let's dig a bit in. 
+ ![](/images/04/1.PNG) 
+3. Click on, "Feature Class" and we're going to be going through a wizard that will help us start the feature class. And you might wonder, what is a feature class? Well, it's basically you setting up an object.
+ 
 ![](/images/04/2.PNG)
+
+4. This is the wizard. It should be relatively straight forward, I hope?! Let's walk through it a bit. First things first, let's get a look at the what the wizard wants (it's the one ring, it's always the one ring).
+
 ![](/images/04/3.PNG)
+5. So, with naming schemas for variables, i'm sure you've been told a lot during your programming courses. This is no different. If you've not taken any programming courses, know this: there are limits to names, especially as we get into projects with hundreds, if not thousands of feature classes. We'll have a whole week or so on data management though so that's something to look forward to!
+   
+   So, with, "Feature Class Type" this is where the big guns come out. What are you making? Do you make a polygon to represent builtings? Do you make a dot because the object is too small? What? Well, in this case we're just going to place a few points here and there. 
+
 ![](/images/04/4.PNG)
+6. Here, we'll be working in and around what amounts to a data table. I want you to do 2 things here: 1. Change OBJECT ID to Name and 2. Add a field called, "LatLong." After this, you can hit next and explore the rest of it, but we'll just be doing defaults. 
+
 ![](/images/04/5.PNG)
+7. Alright! We made our first feature class. As you can see, I am an adult who names things how they should be named. What i'd suggest is to use what the feature class will be showing as the name. So like, for the assignment, we might consider something like, "Geocaches". But there's some fun to do here. 
+   
+   Go to the "Edit" tab in the Ribbon. 
+
 ![](/images/04/6.PNG)
+8. So we have a feature class which created a table for us to flesh out...but we don't have any objects! So, the table is empty. If we add some things to the table, nothing really happens. But if we click on this, "Create" button, what happens? What's that on the side?
+
 ![](/images/04/7.PNG)
 
+9. We got a whole thing here. Let's take a closer look: 
+
+![](/images/4/8.png)
+
+So what's happening here? Well, it's relatively simpker
+
 For the following items, we'll be referencing: [this tutorial](https://pro.arcgis.com/en/pro-app/latest/help/data/geodatabases/overview/feature-class-basics.htm) and it has more on it than what i'm placing here. We'll circle back around as we get further in. 
+
+One thing for your professor to recommend is about shape files. The format is weird because it stores geometry and that's it. It's kind of an unnecessary thing given that the geodatabase already stores enough for that; however, it still needs to draw the vector data. So, most likely we won't have a way away from it. This is a long, ranty webpage but it's informative: http://switchfromshapefile.org/
 ### <a id ="points"></a>Points
 - Points—Features that are too small to represent as lines or polygons as well as point locations (such as GPS observations).
 ### <a id ="line"></a>Line
