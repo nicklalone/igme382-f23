@@ -91,7 +91,7 @@ To add a feature class to a map, do the following (additionally, i thought [this
 
 9. We got a whole thing here. Let's take a closer look: 
 
-![](/images/4/8.png)
+![](8.png.md)
 
 So what's happening here? Well, it's relatively simpker
 
