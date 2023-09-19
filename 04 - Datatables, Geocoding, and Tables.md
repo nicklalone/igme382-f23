@@ -94,16 +94,12 @@ To add a feature class to a map, do the following (additionally, i thought [this
 ![](/images/04/6.png)
 
 8. So we have a feature class which created a table for us to flesh out...but we don't have any objects! So, the table is empty. If we add some things to the table, nothing really happens. But if we click on this, "Create" button, what happens? What's that on the side?
+   
+   We can draw a polygon over RIT! It'd honestly help me navigate to the university from home if I was just coming at it like this.
 
 ![](/images/04/7.png)
 
-9. We got a whole thing here. Let's take a closer look: 
-
-![](8.png)
-
-![](9.png)
-
-So what's happening here? Well, it's relatively simpker
+So what's happening here? Well, it's relatively simpler
 
 For the following items, we'll be referencing: [this tutorial](https://pro.arcgis.com/en/pro-app/latest/help/data/geodatabases/overview/feature-class-basics.htm) and it has more on it than what i'm placing here. We'll circle back around as we get further in. 
 
