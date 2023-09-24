@@ -95,7 +95,7 @@ To add a feature class to a map, do the following (additionally, i thought [this
 
 8. So we have a feature class which created a table for us to flesh out...but we don't have any objects! So, the table is empty. If we add some things to the table, nothing really happens. But if we click on this, "Create" button, what happens? What's that on the side?
    
-   We can draw a polygon over RIT! It'd honestly help me navigate to the university from home if I was just coming at it like this.
+   We can draw a polygon over RIT! It'd honestly help me navigate to the university from home if I was just coming at it like this.x
 
 ![](/images/04/7.png)
 
