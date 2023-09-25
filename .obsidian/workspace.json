@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5191eb953f0c31c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Collecting Data, Visualizing Data, and More.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,11 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00d2914e550b05de",
+  "active": "5191eb953f0c31c8",
   "lastOpenFiles": [
+    "04 - Datatables, Geocoding, and Tables.md",
+    "03 - Using GIS.pdf",
+    "02 - Installing GIS.md",
+    "PPTs/01 - Current Class Published/05 - Tuesday and Thursday.pptx",
+    "PPTs/01 - Current Class Published/~$05 - Tuesday and Thursday.pptx",
+    "PPTs/01 - Current Class Published/04 - Tuesday and Thursday.pptx",
+    "PPTs/01 - Current Class Published/~$04 - Tuesday and Thursday.pptx",
     "images/pi2.png",
     "05 - Collecting Data, Visualizing Data, and More.md",
-    "04 - Datatables, Geocoding, and Tables.md",
     "images/04/9.png",
     "images/04/8.png",
     "images/04/9.png.md",
@@ -165,7 +184,6 @@
     "images/04/5.png",
     "images/04",
     "images.md",
-    "03 - Using GIS.pdf",
     "04 - Data, Databases, and GIS.md",
     "13- Final Projects.md",
     "12 - Ethics and Maps.md",
@@ -176,14 +194,9 @@
     "07 - Remote Sensing.md",
     "06 - Storymaps.md",
     "06 - GIS Online.md",
-    "02 - Installing GIS.md",
     "Untitled",
     "Tuesday.md",
     "PPTs/02 - Current Class Raw/_Ch2_P3_Sampling.pdf",
-    "PPTs/01 - Current Class Published/03 - Raster v Vector.pdf",
-    "PPTs/01 - Current Class Published/03 - Data Structures.pdf",
-    "PPTs/01 - Current Class Published/03 - Data Models.pdf",
-    "PPTs/03 - Past Classes/2020/07 - IGME Fall 2020 Week 7 Remote Sensing and UAVs.pdf",
-    "PPTs/03 - Past Classes/2020/04 - IMGE 382 Fall 2020 Week 4 Tables and Cartography.pdf"
+    "PPTs/01 - Current Class Published/03 - Raster v Vector.pdf"
   ]
 }
