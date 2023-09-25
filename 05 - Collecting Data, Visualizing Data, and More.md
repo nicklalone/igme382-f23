@@ -32,13 +32,10 @@ The goals of this week are relatively simple:
 Today, we're just going to go through some background terms and ideas. To wit, the terms we're worried about are these: 
 1. Shapefiles: 
 
-spatial datasets
-predate geodatabse,
-still widely used,
-only vector data, no curves
-different pieces
+These are a collection of files that contain what we can refer to as spatial datasets or vector-based information. This is something of a legacy format but given its uses, will probably be around for quite some time. As-is, these predate geodatabse files which has all of the data tables, curves, raster files, and annotations you've made on a map. 
 
-2 GB Limit
+Because they've been around for forever and because there is no alternative, they are still widely used. As noted these files ONLY contain vector data, no curves. There are a number of different pieces to this 2GB limited file type. These include:
+
  * Shapefiles
 	* filename.shp - containing the coordinates
 	* filename.dbf - containing the attributes
@@ -47,18 +44,25 @@ different pieces
 	* filename.sbn - an optional indexing file 
   
 3. Geodatabases:
-tables, shapefiles, rasters, annotation
-true curves
-2 terabyte limit per feature class
-Enterprise geodatabases have no limits
-Must be created in ArcGIS
+A number of years ago, ESRI created the Geodatabase. This filetype is exactly what it sounds like, it is a collection of data with regard to a project or map. These database files contain: tables, shapefiles, rasters, annotations, and the true curves of rasters. Unlike the 2GB limit for shapefiles, there is a 2 TB limit not for the database itself, but per feature class. Also, unlike shapefiles, Enterprise geodatabases have no limits but they must be created in ArcGIS. This is a lot like how PDFs used to be before Adobe made that format less proprietary. 
+
+So PER feature class, we added a feature class in class last week. So, we only added a few points; however, we can add as much information as we'd like to these, as long as it falls under a couple terrabytes. We can visualize this information a bit more: 
 
 4. Feature Classes / Databases:
 ![[/images/pi2.png]]
-6. Reference Map:
-7. Thematic Map:
-8. Map Design: 
 
+Now, we're going to talk a bit about 2 different kinds of maps: reference and thematic.
+
+6. Reference Map:
+These maps are just for reference. We used to use these all the time. Road maps, maps that show us where cities are, where forests or parks might be. We use these to figure out what human things are around us be they trees, parks, roads, paths, buildings, and more. 
+
+8. Thematic Map:
+Remember the pandemic? We'll be dealing with the after effects of it for ages in as much as we're still dealing with the after effects of 9/11/2001. Thematic maps were omnipresent during the pandemic. You saw them all the time. For example: https://hub.jhu.edu/magazine/2020/summer/coronavirus-tracker-map-lauren-gardner/
+
+We can also think about stuff like temperature maps or anything where data about something residing somewhere can be visualized through some schema. 
+
+10. Map Design: 
+We will talk about this on Thursday but I wanted to mention gestalt theory as well as the work in and around road signs and cartographic signs.
 ### <a id="feature"></a>Feature Classes
 
 ### <a id="ref"></a>Reference Map
@@ -66,7 +70,6 @@ Must be created in ArcGIS
 ### <a id="theme"></a>Thematic Map
 
 ### <a id="mapd"></a>Map Design
-
 Gestalt Theory, it's back...or it's new!
 
 # <a id="day2"></a>Thursday - Getting to know geospatial data queries
