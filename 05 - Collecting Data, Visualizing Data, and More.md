@@ -48,27 +48,21 @@ A number of years ago, ESRI created the Geodatabase. This filetype is exactly wh
 
 So PER feature class, we added a feature class in class last week. So, we only added a few points; however, we can add as much information as we'd like to these, as long as it falls under a couple terrabytes. We can visualize this information a bit more: 
 
-4. Feature Classes / Databases:
+4. Feature Classes <a id="feature"></a>/ Databases:
 ![[/images/pi2.png]]
 
 Now, we're going to talk a bit about 2 different kinds of maps: reference and thematic.
 
-6. Reference Map:
+6. Reference Map<a id="ref"></a>:
 These maps are just for reference. We used to use these all the time. Road maps, maps that show us where cities are, where forests or parks might be. We use these to figure out what human things are around us be they trees, parks, roads, paths, buildings, and more. 
 
-8. Thematic Map:
+8. Thematic Map<a id="tm"></a>:
 Remember the pandemic? We'll be dealing with the after effects of it for ages in as much as we're still dealing with the after effects of 9/11/2001. Thematic maps were omnipresent during the pandemic. You saw them all the time. For example: https://hub.jhu.edu/magazine/2020/summer/coronavirus-tracker-map-lauren-gardner/
 
 We can also think about stuff like temperature maps or anything where data about something residing somewhere can be visualized through some schema. 
 
 10. Map Design: 
 We will talk about this on Thursday but I wanted to mention gestalt theory as well as the work in and around road signs and cartographic signs.
-### <a id="feature"></a>Feature Classes
-
-### <a id="ref"></a>Reference Map
-
-### <a id="theme"></a>Thematic Map
-
 ### <a id="mapd"></a>Map Design
 Gestalt Theory, it's back...or it's new!
 
