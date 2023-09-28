@@ -65,7 +65,6 @@ We can also think about stuff like temperature maps or anything where data about
 We will talk about this on Thursday but I wanted to mention gestalt theory as well as the work in and around road signs and cartographic signs.
 ### <a id="mapd"></a>Map Design
 Gestalt Theory, it's back...or it's new!
-
 # <a id="day2"></a>Thursday - Getting to know geospatial data queries
 ### <a id="ass3"></a>Assignment 3:
 3 Tasks: 

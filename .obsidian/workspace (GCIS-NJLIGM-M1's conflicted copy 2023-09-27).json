@@ -30,31 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b9c04ab80729012f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "249bf3b72561a13d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Collecting Data, Visualizing Data, and More.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,11 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9cfdebf764654e1",
+  "active": "5191eb953f0c31c8",
   "lastOpenFiles": [
     "data/assignment_03.zip",
-    "data/Assignment_03 1.zip",
-    "data/Assignment_03.zip",
     "data",
     "04 - Datatables, Geocoding, and Tables.md",
     "03 - Using GIS.pdf",
@@ -220,6 +196,8 @@
     "07 - Remote Sensing.md",
     "06 - Storymaps.md",
     "06 - GIS Online.md",
-    "Tuesday.md"
+    "Untitled",
+    "Tuesday.md",
+    "PPTs/02 - Current Class Raw/_Ch2_P3_Sampling.pdf"
   ]
 }
