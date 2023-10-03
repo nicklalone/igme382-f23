@@ -25,36 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Collecting Data, Visualizing Data, and More.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9c04ab80729012f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "249bf3b72561a13d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Collecting Data, Visualizing Data, and More.md",
+                "file": "06 - Storymaps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Collecting Data, Visualizing Data, and More.md",
+                "file": "06 - Storymaps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Collecting Data, Visualizing Data, and More.md",
+                "file": "06 - Storymaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Collecting Data, Visualizing Data, and More.md"
+                "file": "06 - Storymaps.md"
               }
             }
           }
@@ -181,11 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9cfdebf764654e1",
+  "active": "5191eb953f0c31c8",
   "lastOpenFiles": [
+    "05 - Collecting Data, Visualizing Data, and More.md",
     "data/assignment_03.zip",
-    "data/Assignment_03 1.zip",
-    "data/Assignment_03.zip",
     "data",
     "04 - Datatables, Geocoding, and Tables.md",
     "03 - Using GIS.pdf",
@@ -195,7 +172,6 @@
     "PPTs/01 - Current Class Published/04 - Tuesday and Thursday.pptx",
     "PPTs/01 - Current Class Published/~$04 - Tuesday and Thursday.pptx",
     "images/pi2.png",
-    "05 - Collecting Data, Visualizing Data, and More.md",
     "images/04/9.png",
     "images/04/8.png",
     "images/04/9.png.md",
@@ -220,6 +196,7 @@
     "07 - Remote Sensing.md",
     "06 - Storymaps.md",
     "06 - GIS Online.md",
+    "Untitled",
     "Tuesday.md"
   ]
 }
