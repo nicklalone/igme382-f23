@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Game Cartography.md",
+                "file": "08 - Game Cartography.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 - Game Cartography.md",
+                "file": "08 - Game Cartography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - Game Cartography.md",
+                "file": "08 - Game Cartography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 - Game Cartography.md"
+                "file": "08 - Game Cartography.md"
               }
             }
           }
@@ -159,8 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9cfdebf764654e1",
+  "active": "5191eb953f0c31c8",
   "lastOpenFiles": [
+    "assignments/Assignment 5.md",
+    "11 - Geodesign and Midterm Review.md",
+    "12 - Midterm and Thanksgiving Break.md",
+    "10 - Ethics and Maps.md",
+    "09 - Disaster Maps.md",
+    "08 - Game Cartography.md",
     "PPTs/01 - Current Class Published/08 - Tuesday.pptx",
     "PPTs/01 - Current Class Published/~$08 - Tuesday.pptx",
     "PPTs/01 - Current Class Published/~$01 - First Day.pptx",
@@ -175,7 +181,6 @@
     "quizzes/Quiz 5.md",
     "quizzes/Quiz 4.md",
     "quizzes/Quiz 3.md",
-    "assignments/Assignment 5.md",
     "quizzes",
     "assignments/Assignment 4.md",
     "assignments/Assignment 3.md",
@@ -192,20 +197,15 @@
     "data",
     "PPTs/01 - Current Class Published/05 - Tuesday and Thursday.pptx",
     "PPTs/01 - Current Class Published/~$05 - Tuesday and Thursday.pptx",
-    "PPTs/01 - Current Class Published/04 - Tuesday and Thursday.pptx",
     "images/pi2.png",
     "images/04/9.png",
     "images/04/8.png",
-    "images/04/9.png.md",
-    "images/04/8.png.md",
     "images/04/7.png",
     "images/04/2.png",
     "images/04/6.png",
     "images/04/4.png",
     "images/04/3.png",
     "images/04/1.png",
-    "images/04/5.png",
-    "images.md",
-    "04 - Data, Databases, and GIS.md"
+    "images/04/5.png"
   ]
 }
