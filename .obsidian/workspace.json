@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Storymaps.md",
+                "file": "10 - Game Cartography.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Storymaps.md",
+                "file": "10 - Game Cartography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Storymaps.md",
+                "file": "10 - Game Cartography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Storymaps.md"
+                "file": "10 - Game Cartography.md"
               }
             }
           }
@@ -159,24 +159,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5191eb953f0c31c8",
+  "active": "f9cfdebf764654e1",
   "lastOpenFiles": [
+    "PPTs/01 - Current Class Published/08 - Tuesday.pptx",
+    "PPTs/01 - Current Class Published/~$08 - Tuesday.pptx",
+    "PPTs/01 - Current Class Published/~$01 - First Day.pptx",
+    "quizzes/Quiz 2.md",
+    "quizzes/Quiz 1.md",
+    "quizzes/Quiz 0.md",
+    "quizzes/Quiz 10.md",
+    "quizzes/Quiz 9.md",
+    "quizzes/Quiz 8.md",
+    "quizzes/Quiz 7.md",
+    "quizzes/Quiz 6.md",
+    "quizzes/Quiz 5.md",
+    "quizzes/Quiz 4.md",
+    "quizzes/Quiz 3.md",
+    "assignments/Assignment 5.md",
+    "quizzes",
+    "assignments/Assignment 4.md",
+    "assignments/Assignment 3.md",
+    "assignments/Assignment 2.md",
+    "assignments/Assignment 1.md",
+    "07 - Remote Sensing.md",
+    "assignments",
+    "06 - Storymaps.md",
     "05 - Collecting Data, Visualizing Data, and More.md",
-    "data/assignment_03.zip",
-    "data",
     "04 - Datatables, Geocoding, and Tables.md",
     "03 - Using GIS.pdf",
     "02 - Installing GIS.md",
+    "data/assignment_03.zip",
+    "data",
     "PPTs/01 - Current Class Published/05 - Tuesday and Thursday.pptx",
     "PPTs/01 - Current Class Published/~$05 - Tuesday and Thursday.pptx",
     "PPTs/01 - Current Class Published/04 - Tuesday and Thursday.pptx",
-    "PPTs/01 - Current Class Published/~$04 - Tuesday and Thursday.pptx",
     "images/pi2.png",
     "images/04/9.png",
     "images/04/8.png",
     "images/04/9.png.md",
     "images/04/8.png.md",
-    "images/4",
     "images/04/7.png",
     "images/04/2.png",
     "images/04/6.png",
@@ -184,19 +205,7 @@
     "images/04/3.png",
     "images/04/1.png",
     "images/04/5.png",
-    "images/04",
     "images.md",
-    "04 - Data, Databases, and GIS.md",
-    "13- Final Projects.md",
-    "12 - Ethics and Maps.md",
-    "11 - Disaster Maps.md",
-    "10 - Game Cartography.md",
-    "09 - Midterm and Thanksgiving Break.md",
-    "08 - Geodesign and Midterm Review.md",
-    "07 - Remote Sensing.md",
-    "06 - Storymaps.md",
-    "06 - GIS Online.md",
-    "Untitled",
-    "Tuesday.md"
+    "04 - Data, Databases, and GIS.md"
   ]
 }
