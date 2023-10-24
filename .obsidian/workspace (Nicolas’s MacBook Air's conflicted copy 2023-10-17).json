@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "8804f142304e573f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b24115d5184a0f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e9c3ca24474300c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Installing GIS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a4f4c2757ebad12",
+    "type": "split",
+    "children": [
+      {
+        "id": "262480f9d160795d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82926e03fdc8fc76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de4dd0de49e1610d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38a363d35e72c3d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3fceabc39a7b66b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "57b7785cab928bbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dda1da488a3c79e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Installing GIS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2699547d689fe7fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Installing GIS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "567383ff79a6e35c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e1560da1e13dc51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - Installing GIS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8e9c3ca24474300c",
+  "lastOpenFiles": [
+    "quizzes/Quiz 0.md",
+    "quizzes/Quiz 1.md",
+    "quizzes/Quiz 6.md",
+    "assignments/Assignment 4.md",
+    "quizzes/Quiz 8.md",
+    "quizzes/Quiz 9.md",
+    "quizzes/Quiz 5.md",
+    "assignments/Assignment 2.md",
+    "quizzes/Quiz 7.md",
+    "quizzes/Quiz 10.md",
+    "assignments/Assignment 1.md",
+    "quizzes/Quiz 2.md",
+    "quizzes/Quiz 3.md",
+    "quizzes/Quiz 4.md",
+    "assignments/Assignment 5.md",
+    "assignments/Assignment 3.md",
+    "quizzes",
+    "assignments",
+    "08 - Game Cartography.md",
+    "10 - Ethics and Maps.md",
+    "12 - Midterm and Thanksgiving Break.md",
+    "09 - Disaster Maps.md",
+    "11 - Geodesign and Midterm Review.md",
+    "data/assignment_03.zip",
+    "data",
+    "PPTs/01 - Current Class Published/05 - Tuesday and Thursday.pptx",
+    "images/pi2.png",
+    "05 - Collecting Data, Visualizing Data, and More.md",
+    "images/04/8.png",
+    "images/04/9.png",
+    "images/4/9.png.md",
+    "images/4",
+    "images/04/7.png",
+    "01 - Intro and Getting Started.md",
+    "05 - Collecting Data.md",
+    "04 - Datatables, Geocoding, and Tables.md",
+    "images/04/4.png",
+    "images/04/3.png",
+    "images/04/5.png",
+    "images/04/2.png",
+    "images/04/6.png",
+    "images/04/1.png",
+    "images/04",
+    "03 - Using GIS.pdf",
+    "PPTs/01 - Current Class Published/03 - Raster v Vector.pptx",
+    "images/whole.psd"
+  ]
+}

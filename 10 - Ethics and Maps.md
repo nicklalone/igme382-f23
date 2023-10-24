@@ -4,6 +4,6 @@
 1. [Day 2](#day2)
 
 ---------------- Table of Contents ---------------- 
-# <a id="day1"></a>Tuesday - Hi, how are you?
+# <a id="day1"></a>Tuesday 
 
-# <a id="day2"></a>Thursday - Some Ramblings About the Place of Maps
+# <a id="day2"></a>Thursday

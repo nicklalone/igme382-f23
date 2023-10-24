@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a2bb8317eecb8b77",
+        "id": "a83cb4543b8abb04",
         "type": "tabs",
         "children": [
           {
-            "id": "00d2914e550b05de",
+            "id": "eb95d304cb39ecaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Collecting Data, Visualizing Data, and More.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5191eb953f0c31c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Game Cartography.md",
+                "file": "09 - Disaster Maps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Game Cartography.md",
+                "file": "09 - Disaster Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Game Cartography.md",
+                "file": "09 - Disaster Maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Game Cartography.md"
+                "file": "09 - Disaster Maps.md"
               }
             }
           }
@@ -159,14 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5191eb953f0c31c8",
+  "active": "eb95d304cb39ecaa",
   "lastOpenFiles": [
-    "assignments/Assignment 5.md",
-    "11 - Geodesign and Midterm Review.md",
-    "12 - Midterm and Thanksgiving Break.md",
-    "10 - Ethics and Maps.md",
+    "images/mariarain.jpg",
+    "images/mariatree.jpeg",
+    "images/nebnuc.webp",
+    "images/fuku.jpg",
+    "11 - Midterm Review.md",
+    "05 - Collecting Data, Visualizing Data, and More.md",
     "09 - Disaster Maps.md",
+    "images/nosuchmodel.png",
+    "images/notnat.jpeg",
+    "images/risk_index_calculation.png.md",
+    "images/Risk_Index_Calculation.svg",
+    "images.md",
     "08 - Game Cartography.md",
+    "10 - Ethics and Maps.md",
+    "assignments/Assignment 5.md",
+    "12 - Midterm and Thanksgiving Break.md",
     "PPTs/01 - Current Class Published/08 - Tuesday.pptx",
     "PPTs/01 - Current Class Published/~$08 - Tuesday.pptx",
     "PPTs/01 - Current Class Published/~$01 - First Day.pptx",
@@ -188,11 +185,7 @@
     "assignments/Assignment 1.md",
     "07 - Remote Sensing.md",
     "assignments",
-    "06 - Storymaps.md",
-    "05 - Collecting Data, Visualizing Data, and More.md",
-    "04 - Datatables, Geocoding, and Tables.md",
     "03 - Using GIS.pdf",
-    "02 - Installing GIS.md",
     "data/assignment_03.zip",
     "data",
     "PPTs/01 - Current Class Published/05 - Tuesday and Thursday.pptx",
@@ -200,12 +193,6 @@
     "images/pi2.png",
     "images/04/9.png",
     "images/04/8.png",
-    "images/04/7.png",
-    "images/04/2.png",
-    "images/04/6.png",
-    "images/04/4.png",
-    "images/04/3.png",
-    "images/04/1.png",
-    "images/04/5.png"
+    "images/04/7.png"
   ]
 }
