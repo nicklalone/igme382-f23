@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8385db5e039a5406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Datatables, Geocoding, and Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Disaster Maps.md",
+                "file": "04 - Datatables, Geocoding, and Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Disaster Maps.md",
+                "file": "04 - Datatables, Geocoding, and Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Disaster Maps.md"
+                "file": "04 - Datatables, Geocoding, and Tables.md"
               }
             }
           }
@@ -146,21 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb95d304cb39ecaa",
+  "active": "8385db5e039a5406",
   "lastOpenFiles": [
+    "03 - Using GIS.pdf",
+    "02 - Installing GIS.md",
+    "images.md",
+    "09 - Disaster Maps.md",
+    "08 - Game Cartography.md",
+    "images/analysis.png",
     "images/mariarain.jpg",
     "images/mariatree.jpeg",
     "images/nebnuc.webp",
     "images/fuku.jpg",
     "11 - Midterm Review.md",
     "05 - Collecting Data, Visualizing Data, and More.md",
-    "09 - Disaster Maps.md",
     "images/nosuchmodel.png",
     "images/notnat.jpeg",
     "images/risk_index_calculation.png.md",
     "images/Risk_Index_Calculation.svg",
-    "images.md",
-    "08 - Game Cartography.md",
     "10 - Ethics and Maps.md",
     "assignments/Assignment 5.md",
     "12 - Midterm and Thanksgiving Break.md",
@@ -183,16 +199,12 @@
     "assignments/Assignment 3.md",
     "assignments/Assignment 2.md",
     "assignments/Assignment 1.md",
-    "07 - Remote Sensing.md",
     "assignments",
-    "03 - Using GIS.pdf",
     "data/assignment_03.zip",
     "data",
     "PPTs/01 - Current Class Published/05 - Tuesday and Thursday.pptx",
     "PPTs/01 - Current Class Published/~$05 - Tuesday and Thursday.pptx",
     "images/pi2.png",
-    "images/04/9.png",
-    "images/04/8.png",
-    "images/04/7.png"
+    "images/04/9.png"
   ]
 }

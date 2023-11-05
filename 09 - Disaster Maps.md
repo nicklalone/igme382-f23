@@ -60,16 +60,11 @@ https://www.undrr.org/news/sendai-framework-6th-anniversary-time-recognize-there
 
 # <a id="day2"></a>Thursday 
 1. Examples
-	1. Katrina
-		1. 
-	2. Joplin
-		1. 
-	3. Maria
+	1. Oldsmar Water Treatment
+	2. Hurricane Maria
 		1. ![](/images/mariatree.jpeg)
 		2. ![](/images/mariarain.jpg)
 		3. https://storms.ngs.noaa.gov/storms/maria/index.html#11/18.2071/-66.3538
 	4. Fukushima / Missouri River
 		1. ![](/images/fuku.jpg)
 		2. ![](/images/nebnuc.webp)
-	5. Oldsmar
-		1. 
