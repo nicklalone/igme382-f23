@@ -212,8 +212,8 @@ https://www.undrr.org/news/sendai-framework-6th-anniversary-time-recognize-there
 4. A Map of Disaster Damage in Situ.
 
 ## <a id="w10"></a>Week 10 - Ethics and Maps
-redistricting
-gdpr
-surveying
-redlining
-indoor
+* redistricting
+* gdpr
+* surveying
+* redlining
+* indoor
