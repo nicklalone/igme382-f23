@@ -1,8 +1,8 @@
 ---------------- Table of Contents ---------------- 
 
-1. [Week 03](#w3)
-2. [Week 04](#w4)
-3. [Week 05](#w5)
+1. [Week 03 - Using GIS](#w3)
+2. [Week 04 - Datatables and Coding](#w4)
+3. [Week 05 - ](#w5)
 4. [Week 06](#w6)
 5. [Week 07](#w7)
 6. [Week 08](#w8)
@@ -32,16 +32,17 @@
 	* **Proportional Symbol** - https://wiki.gis.com/wiki/index.php/Proportional_symbol_map#:~:text=A%20Proportional%20symbol%20map%20is,to%20represent%20a%20quantitative%20variable
 	* **Dot Density** - https://www.axismaps.com/guide/dot-density
 	* **Isarithmic (heat)** - http://wiki.gis.com/wiki/index.php/Isarithmic_map
-## <a id="w4"></a>Week 04 - Datatables and Coding
-* Geodatabases - 
-* Feature Classes - 
+## <a id="w4"></a>Week 04 - Data tables and Coding
+Geodatabases are where all of this information is stored. According to ESRI, these are, "the native data structure for ArcGIS and is the primary data format used for editing and data management"
+
+* Feature Classes - https://pro.arcgis.com/en/pro-app/latest/help/data/geodatabases/overview/feature-class-basics.htm
 	* Types of Feature Classes - 
-		* Line - 
-		* Point - 
-		* Polygon - 
-
+		* Line - Represent the shape and location of geographic objects, such as street centerlines and streams, too narrow to depict as areas. Lines are also used to represent features that have length but no area, such as contour lines and boundaries.
+		* Point - Features that are too small to represent as lines or polygons as well as point locations (such as GPS observations).
+		* Polygon - A set of many-sided area features that represents the shape and location of homogeneous feature types such as states, counties, parcels, soil types, and land-use zones.
+* How we decide on what to code - It is up to the designer of the map, the protocols or policies of the unit or based on an agreed upon schema.
+## <a id="w5"></a> 05 - Collecting Data, Visualizing Data, and More
 1. Shapefiles: 
-
 These are a collection of files that contain what we can refer to as spatial datasets or vector-based information. This is something of a legacy format but given its uses, will probably be around for quite some time. As-is, these predate geodatabse files which has all of the data tables, curves, raster files, and annotations you've made on a map. 
 
 Because they've been around for forever and because there is no alternative, they are still widely used. As noted these files ONLY contain vector data, no curves. There are a number of different pieces to this 2GB limited file type. These include:
@@ -70,19 +71,18 @@ These maps are just for reference. We used to use these all the time. Road maps,
 Remember the pandemic? We'll be dealing with the after effects of it for ages in as much as we're still dealing with the after effects of 9/11/2001. Thematic maps were omnipresent during the pandemic. You saw them all the time. For example: https://hub.jhu.edu/magazine/2020/summer/coronavirus-tracker-map-lauren-gardner/
 
 We can also think about stuff like temperature maps or anything where data about something residing somewhere can be visualized through some schema. 
-
-10. Map Design: 
-We will talk about this on Thursday but I wanted to mention gestalt theory as well as the work in and around road signs and cartographic signs.
 ## <a id="w6"></a>Week 06 - Storymaps
-1. At least 10 locations (on a map of some kind) with images that either you own, or are creative commons.
-2. A timeline with pictures of said highlights.
-3. At least 3 text blocks.
-4. What your favorite part of the trip was. 
-5. What you learned from the trip and why.
-6. Where you will go next and why.
-## <a id="w7"></a>Week 07 - Remote Sensing
-Please organize yourselves so you can answer these questions: 
+ArcGIS StoryMaps are an ESRI tool that can help you tell stories with geographic information system (GIS)-based maps.
 
+Storymaps are a built-in feature of the ArcGIS system and allow you an ability to use different kinds of base maps or raster layers in addition to affording hte user an ability to draw polygons on the map directly.
+
+Features include: 
+1. maps
+2. timelines 
+3. pictures
+4. text blocks.
+and more!
+## <a id="w7"></a>Week 07 - Remote Sensing
 1. What is remote sensing?  
     “Remote sensing is the process of detecting and monitoring the physical characteristics of an area by measuring its reflected and emitted radiation at a distance”      
 
@@ -116,7 +116,7 @@ Active Remote Sensing is when a remote sensor uses its own method of energy/radi
 
 6. Please cite 5 pieces detailing what Passive remote sensing is. Please include: 2 Web Resources, 2 academic resources (peer reviewed), and 1 Youtube video.  
 
-* Passive Sensors, NASA Earthdata: [https://www.earthdata.nasa.gov/learn/backgrounders/passive-sensors](https://www.earthdata.nasa.gov/learn/backgrounders/passive-sensors)
+* Passive Sensors, NASA Earthdata:[https://www.earthdata.nasa.gov/learn/backgrounders/passive-sensors](https://www.earthdata.nasa.gov/learn/backgrounders/passive-sensors)
 
 * Passive vs active sensors in remote sensing:
 [https://gisgeography.com/passive-active-sensors-remote-sensing/](https://gisgeography.com/passive-active-sensors-remote-sensing/)
@@ -165,9 +165,14 @@ Mårtensson, Ulrik. (2011). “Introduction to Remote Sensing and Geographical I
 ## <a id="w8"></a>Week 08 - Game Cartography
 
 Game Maps - Why are they useful?
-Map as Medium
-Map as Tool
-Dungeons and Dragons
+Looking at how folks organize and work with maps in video games is useful because game designers have to create geospatial information at scratch for worlds that do not exist outside of ESRI's ecosystem. As such, they are exploring the concept of maps both as a way to make an unreal world real and how to organize play within and around it.
+
+We can call the map as a medium of play when games were new because computers had so little memory, the map and where you played the game were the same thing.
+
+Maps as tools began because as memory got cheaper, video games got bigger resulting in 3-dimensional worlds that needed a separate map for navigation.
+
+Dungeons and Dragons shifted the discussion and relationship of maps and games. In fact, when the game was first released in 1974, the game suggested players buy an Avalon Hill product called Outdoor Survival so they'd have a worldmap to begin with. 
+
 Divergence 
 ## <a id="w9"></a>Week 09 - Disaster Maps
 ESRI's Deal: 
@@ -176,7 +181,7 @@ ESRI's Deal:
 There are a few givens to consider with regard to maps and disaster. We will state these givens now: 
 
 1. We refer to the event that creates the disaster a hazard. These hazards can be natural, manmade, and technological.
-2. Disasters begin long before the hazard. 
+2. Disasters begin long before the hazard and as such, we can map those risky areas if we wanted to.
 3. Vulnerability and risk are not equal across the population. 
 
 But what does this have to do with maps? 

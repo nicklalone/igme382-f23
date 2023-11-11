@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7601d8f2dd1bad24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "12 - Midterm and Thanksgiving Break.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.50043487548828
+    "width": 355.5004348754883
   },
   "right": {
     "id": "f1f0ae40e9a5b33b",
@@ -146,19 +159,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8385db5e039a5406",
+  "active": "7601d8f2dd1bad24",
   "lastOpenFiles": [
+    "05 - Collecting Data, Visualizing Data, and More.md",
+    "12 - Midterm and Thanksgiving Break.md",
+    "Untitled.md",
+    "README.md",
+    "images.md",
+    "Tuesday.md",
     "11 - Midterm Review.md",
     "10 - Ethics and Maps.md",
-    "12 - Midterm and Thanksgiving Break.md",
     "09 - Disaster Maps.md",
     "PPTs/01 - Current Class Published/~$08 - Tuesday.pptx",
     "08 - Game Cartography.md",
     "13- Final Projects.md",
-    "05 - Collecting Data, Visualizing Data, and More.md",
     "03 - Using GIS.pdf",
     "02 - Installing GIS.md",
-    "images.md",
     "07 - Remote Sensing.md",
     "06 - Storymaps.md",
     "04 - Datatables, Geocoding, and Tables.md",
@@ -183,8 +199,6 @@
     "quizzes/Quiz 7.md",
     "quizzes/Quiz 6.md",
     "quizzes/Quiz 5.md",
-    "quizzes/Quiz 4.md",
-    "quizzes/Quiz 3.md",
     "quizzes",
     "assignments",
     "data/assignment_03.zip",
