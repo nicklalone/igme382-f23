@@ -2,12 +2,12 @@
 
 1. [Week 03 - Using GIS](#w3)
 2. [Week 04 - Datatables and Coding](#w4)
-3. [Week 05 - ](#w5)
-4. [Week 06](#w6)
-5. [Week 07](#w7)
-6. [Week 08](#w8)
-7. [Week 09](#w9)
-8. [Week 10](#w10)
+3. [Week 05 - Collecting Data](#w5)
+4. [Week 06 - Storymaps](#w6)
+5. [Week 07 - Remote Sensing](#w7)
+6. [Week 08 - Game Cartography](#w8)
+7. [Week 09 - Disaster Maps](#w9)
+8. [Week 10 - Ethics](#w10)
 
 ---------------- Table of Contents ---------------- 
 ## <a id="w3"></a>Week 03 - Using GIS 
