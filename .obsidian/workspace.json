@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a83cb4543b8abb04",
+        "id": "8282f2d083269f60",
         "type": "tabs",
         "children": [
           {
-            "id": "8385db5e039a5406",
+            "id": "ff5f226947e886ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7601d8f2dd1bad24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12 - Midterm and Thanksgiving Break.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7bc13d25c08a174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - Midterm Review.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 - Midterm Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 - Midterm Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "11 - Midterm Review.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7bc13d25c08a174",
+  "active": "ff5f226947e886ff",
   "lastOpenFiles": [
-    "12 - Midterm and Thanksgiving Break.md",
-    "11 - Midterm Review.md",
-    "05 - Collecting Data, Visualizing Data, and More.md",
     "Untitled.md",
+    "11 - Midterm Review.md",
+    "12 - Midterm and Thanksgiving Break.md",
+    "05 - Collecting Data, Visualizing Data, and More.md",
     "README.md",
     "images.md",
     "Tuesday.md",
